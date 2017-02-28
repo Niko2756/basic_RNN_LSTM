@@ -1,0 +1,847 @@
+TESTING at temperature 0.2
+nry
+Medford
+Melbo.qlhm qH.orddTmSrqLd.JO.yqLhyJppTmShrqq..ra.OhqRhJJhqC.yqHh
+Jh.Oq.mTyqUTmJpyqa.O.qTTm
+.qqY.brmJ.OrqoryJ.yTqI.JJhyqL...b.TfqHT.J.yTpITJh.qL.yq..hyJhqHTmryqL.mhyJTyq..qHTOhpYTpp.hJqH.y. hyqH.mdpR.JyqH..
+
+TESTING at temperature 1.0
+nry
+Medford
+Melboyblhmqd.yuTWryqaTbbc.OqaT.KJIhhDyT
+SqrO.msqlT
+.yTq-.mhTyqqy h.OqUry
+TOhyqery
+.O
+qb.mqYhyKuhJ
+yxrqR.aOSadqHmmiry
+Tyiq Ohyb.pg.H.OhTrqT.y.qRhpfprqCO.yqe.aryJTypqhyOhTyqU.J.yhy.STTy CJTprqy
+m.yqmTTyqH.vb
+
+TESTING at temperature 0.5
+nry
+Medford
+Melbo.qlhm qHrvdddhddqY ryJ.psMuOryq.arJJ.yqH.JhKKqH..JJpYTfJpU.Ty.y.q.MvJ.yqH.ihJKyqv.mb.mhqH.ir.dTyTphJ.yq..y.TqSTmJhpqh.OqY.TyJ.qDmaTyq.m.h.yJTyqcryJTyJ
+Typq..yhT..qD..yqo.yOqYTyJTqq.myhhyqC.O.yJhOqqmTy
+TESTING at temperature 0.2
+isco
+San Jose
+SanTqqklrmaTyqahdrrrdrrJTyqYTyq TJpYTyqYmmfTyJ.TyqH..mu.y
+TyJ.qWTOrpoTmSryqs.mJTyq.MmryqUmryrqH.yO.qeMhy qehyJ.phTOqUy.Trq.hyJ.yq.Ohhyqh.v.TyqHTmhTyqTMhhyyqcTyJTyqc.mpTyqx.mqxThJqR.vhTyqcrm.TyqcrydTyqcry
+
+TESTING at temperature 1.0
+isco
+San Jose
+SanqYGbRmhamdqbhhJpyTTbd.CyrqmlarJJdp
+TryirmrWdy.bRRaqYmU.yrq.OhOSpFmi.yq.mhmCKqY.ddTyu.Ty
+TyJ.yqH.mJJhTShLhJqI.D.yqDmayJqchmJ.yqU.afKqH.qJ.yiYTOrqqUm.yrdr.mr.rqry
+rqU.dYTrKrdqCO.yrqG.rr.OTLq.TyTYfqDrvTy
+
+TESTING at temperature 0.5
+isco
+San Jose
+SanTqyKlhryqH.ayyTyTpC.hyqe.yyarypY.hyqLTyy .blr qL.dTyq.MyTqRUahOhhTqq.MyaTyqL.yTpO.OOqqmmJTyqLTyqR.mr.b.TmJphmJJOryJTyqRrmJ.yqHrmdJpif
+qxrJdpgrqYrvdpU.qrmq.yy
+TyqYrydTmqH.yyTmrprq.Tmpc.yyaThsyqqrmahOqC
+TESTING at temperature 0.2
+amar
+Mission ViejrrJTmqHMm.ymh.JqHM Jp..yqY.yJ.yq.yyJpprmf.dqHryyJ.pH.qH.m.yqC.hyJdJpY.yqYTyhrOJ.qY.yb.ThqRry.Tyqc.JpTmhTyqRMmbJmK.qHTmTyJ.hTqL.b ...qDTmJ.q.TmTyqqrmffaryqR.mmTyqUmJTyqrm..yqTTmhTyqHrOryqcTyJJppTmyiTyq
+
+TESTING at temperature 1.0
+amar
+Mission ViejrmmqH..zT.dTqq.KKUyTTcl.qWTmphmohqS.hdqITOhqIp.rh.hqL.Orm
+TOhqUqh.aqPqO.qLqk.yq..y.qg.irhJqHhy.qH.yTy.qcJ.H.pTT.O.qKfM qI..H.pshyaqHrm.hTvJTyqcI.
+yJJpgT
+b.mpTmJTyq.mJgffpRrvrbhmsqDmryr rmipry
+.yCqff
+r
+
+TESTING at temperature 0.5
+amar
+Mission ViejqHrJJ..yqI.a
+TJJryqH .ypLTJ.mb.HrqfTy.qL.dJmpk.TqLTTyKhyJrqDrb.yphmfJTrqHrmJTy
+Tyq.mm.yqITOJ.pSrfyqYrmrqI rydJTyq rTryqsMJJhyKhTyqUmJhyKJqY..y
+Tph.a qg..o..qC.mhdKqE.ydpHhmyqHTy..hhrqb.yJTyS.TmyqC.yJ.
+TESTING at temperature 0.2
+i
+Costa Mesa
+Dall.qHyiyryiyJrmyrqC.y
+ryqYrJryqP.OyqH.yJpiryiUrqcryJ.yJTyqUmriryqH.ydJpKTyqHTJhqETyJpYTyJJTyqx.yJJppMm.qH .Jh.b.qb.qb.m.Jpt..yTdTqL.boTmJqL.v
+yJhTyqL.vJTyqH..rJJTyqRrmK.yqc.ypJmhyqg.hyKJfyqH.yJTyTqL.yJ 
+
+TESTING at temperature 1.0
+i
+Costa Mesa
+DallhDycyyy
+iTqEqndRlOKy
+mq
+mO.Tq
+qRqhTyhThqHrTpphdJhqC
+.OqO.dbhmJTyq .TyyqRTJTyqmmJ.yqTm.y.vhmJqH.yJOTy.qL.irOJmOW.vqmyyJ.OOhJiqc.yy..hTyqKTmJ.yWqTmryqMTmS rqYrpdTyrqCmxTqgmKTOrqPTqI.m .drqGm..Tq.Tmphrym
+
+TESTING at temperature 0.5
+i
+Costa Mesa
+Dall.qyyiyrykhKryyrqCOOyyJTyqH.mhTyqC.yaTyqcryJTOrpCTaTmJTyqxmm.yqxTmbhmqUmrd
+ThTyqxhTy.pR..yqx.yJTpS..yqR.yyJ.pD.hhqg..yq..bqH.ypTmTyqH.bJpRTyyqL.yJTpI.JTyqxMTyqH.yJpYTyKprhrqhryJ.ihdyrTqiJ.mqe .yddTyq.M
+TESTING at temperature 0.2
+son
+Tulsa
+TuscaloqIddJhrJJrOTyJhmrqH..yi.yqYrmJTyqc.yyJTyprmqqH.maO.qL..yqUhyJ.yqLhm.qH.yT qI.OhTyq.y...qpTmJqE..yu.qC.mdhTyqL..b.pqC.yryTyyqH.yb..bqqCamyyqL.yJTypR.yyTyp..yqH.hyyd..yTqY.yyJp..yTbTqhTmy..pYMbhTyqLMOTy
+
+TESTING at temperature 1.0
+son
+Tulsa
+TuscaloxvaTyybxrfKrdJyrr
+rrT
+KLryaqY.qrCg..KKdqhm
+ryqUmK.yqLTmO..qW hhyTqc.-JppTTSU.yT.fqeryJ
+YhyqHTayJTgqUmq.ydJTymJrqHqNmTmSh. .qyJhYOhq.TqPm.ytJ.Jqe.O.yK.pOTTyqH.iyJ.mhhJqC.hMaTvoyrqcryJJS.qhKJqgrmTmhryqH
+
+TESTING at temperature 0.5
+son
+Tulsa
+TuscaloTmqLJhdJrpGqqyJdpTmKqt.rriryqYTvJTyqcrydTyhTyq.rv.TOqgM.TyqCTyprmhyrqgMayJ.qDTqH .yqrmbKmhqHrmayqq.mJppYTyqHTmJpfmJTyqR..ma.yqYriabKp
+rmhrmJTyqHTmryrbhTOqH.JJTyqHMJJpy.J.yqH..mJ.yqH.mb.mTyTyqsJhyJJTyq
+TESTING at temperature 0.2
+Westminster
+WichiyJTmqIiiyJpYTJJpDT.prmJ.yqHM.JqH.OryJTmqG.yJrqe.yTm.pHTmhy.qrm
+yqY.yy
+Tpr.qCqhyyJ.yqCTbJqh.yTqI.y.bhTmJhdq.TyJ.Ip.myT
+q.MTq.m.TyqRTyapYhyO.qqMTmy.qYmrdTyq..yqGTmyTyqYMTmhhyqY.hdTyp.q.y
+TyTqL.qMTyJ.qC.
+
+TESTING at temperature 1.0
+Westminster
+WichiyK mq..Mrdp...qCTTJqpHlrqs.yJ.CrqaTmYqyhJOTyqimhTmAqS.TyThoKhrqUMmryJpYTahrqG.rpLmrqk d.TyqHTyJpdqqvOKhTqc.tMTyqL.mry
+rydJ qzMTrqHy..lhhTqkyhhTyqc.qd y
+yg.yy.MTyqy.aya qH.y
+ghpyy
+k.arhyI..y
+hry
+Tyq.hm
+
+TESTING at temperature 0.5
+Westminster
+WichiyJTUqHMmJTyq.mJTmJqTO.yqHhfyJTyqDm.frqGTyJTyJqYTi.yrTqWTm
+hfqH..v.TbqxTyJTyqU.qYrmJTyqxrm.yqe.yd.rqeTmpqrhyyqH.yyJThqO.yrTyqU.yb.mJTyq.m.TboTTSqHT.hTqgrmaOOrqo..yTqg.hbOryqHTm.yqP.hy
+TqgMT.qH.brmq.yqH
+TESTING at temperature 0.2
+cester
+Yakima
+YonyvyJJqY.r..yJ.qg..b.m.pHrm.yqL.yTTTdpY.yJTyqLMvv rpoTmJqYTyrhryrqLrdJTmqqMa.yqe.yqHTmJpgThKqL.b.mh.yqR.yqcTmJTyJTTyqCTyarmqDmhJ yJTyqcTyJTmO.OrqY.hhyqHTyJpfr.yqH.yyTT.qs..rpeTOry
+TarOryrqrqRh.OqLJJqYh
+
+TESTING at temperature 1.0
+cester
+Yakima
+YonyHJhJqYhhpJKhqUrqGTdJqkKT.rqGm.mrqd .irqE rf.yqpTKqgrrTyq.mMmfmqEfmTmqTmhqsrmT rqxTMvdTyqDqqRTmhTyqcUyJTmpPBmdJTyp
+M..qH. h.rqeH.mrqq.yJ.S.qMMyJTyqq.q.mm.yqhmyJHhmsqqry
+huhTyqHTpcTmqhmbgRpTmSq
+lpIm.qy
+
+TESTING at temperature 0.5
+cester
+Yakima
+YonyvDrJqY.r..YJ.yqH.yJiyyqYryJ.yqc.yJJhyqP..yJdTfqH.yJJTypp..yqRTm.p.qL.yydhTyqqrybormq..q.MTryJpehyihrOrqqDmJ.mJTaSqHTJJTpt.m.q
+h.mq.m.ybhpsqhyyJ.OrqYTyhhyqL.TyJryqTmqc.yTTyqxr.OhOTySqYryJJyqYmmayJpTmq
+TESTING at temperature 0.2
+t. Louis
+St. PaulrqYJ.yJTypqrmJyqhTyJ.pphTyqHM.JTqL..vSddTyq.yrqHTySTmhTqYr.yqgTmSJTqD...qWThaqR.mb.mJ.qH.qOTyKTyTTdqH.yJ.yqcTaddpDmyy.q.ry
+Tq.y.Tb..qCTmq.mJ
+TqqITy.hTyqR..phma.OrqCTyJrydTyqh.yJTyqHryJTypTmhTyqHTyrp..
+
+TESTING at temperature 1.0
+t. Louis
+St. PaulrmhyUduy.d.yTqyTOTyy
+TOrqYruarqCrOryKJormv.yqUmryrm.CMbu.qq.mTyq.m.mhydqY.iryJhrqYTOhTyKrmqHsm.WTrqDTypd hpqHTmmhTqqMmbJfppl.yJqH.O.frJJqmqUhb.J.prTsTrJqcTJ
+ yqLrv..vrit.JJqYTy
+ryqYrp..KJbdqt.avqn..ya
+
+TESTING at temperature 0.5
+t. Louis
+St. PaulTrJJdYTyq..aryJTdqHMmu.pS.q.m.bhTyqHrJdJphmqJpkTyJqHM.bJTp.m.mboTmqL.yJTyqHrmdpRrySR.yJhTyqYM.yb.mMyqH.yyJTyJpRTyqH.yy.TypHfmJqKTrq..vhTOhqcJmbhmKTyqqM.J.pImJhypYTmhqHTmJ.qYTy.dqxrmJ.yqH..O.poTmSqHJ.y
+TESTING at temperature 0.2
+rrollton
+Cary
+CatqOdryJry
+
+y.rqry
+TyqH..yd.yqYmyhdqhryJghhyqP..Tyq.Tm.pYh.Tqg.hTKqqryyJp.TyqRMaOhhqq .JhbhTyqTmrhTyJTyqxMaTqg..T Tq.iMTOrqH..yqxrydJryqsrm.pgTm
+.h
+qYh.yqH.OrOKTyq.y.dbTmrqH.OryJTyqP.OrypTm.qH..mrhaOh.q
+
+TESTING at temperature 1.0
+rrollton
+Cary
+CatCTdJyJTpb.m.Rdhm.qH.bcmhbdrqLTyrp
+qL.bTpJhqTrJTqdTyJhx qYdJm.KmqWrYJaOrqH.TyJpTrqCO.LKrd.TyqHr-rKdJryJqrMb.NyJhMTqnH.rqehyaJyyJ.qe.yJTqThpRTyyqL.bo.mJhrdgmhrypyrJdrqel.sryoTmTqH M.yKyhrrqxrrJTmqgmqmrp
+
+TESTING at temperature 0.5
+rrollton
+Cary
+CatqYdCCJOrqLhb.mqE.y.phmO.qq.yb.mS.qh.dTpg.bJph.y
+h.arqITyJhhJqL.l.OqYTmJJpU.aoTmJJ.yqH..JqLrmJpYqYmyfTyrqYrJ.hdyqR.ayTfqsM.J.dTTyqHrpJTmJqH..yTpGTmqqMOJTyS.MqY.yJTyqCrm.yqh.yq..yhTOqqrmbhhOqC.y
+TOrqqkh
+TESTING at temperature 0.2
+n
+Howell
+Huntingt
+yyqmmryyTm.yJTqq..yTyqU.aryJTypq.mTmhyqa.J.peTmOrqCTyTr.qrrh
+hhyqC.maTOqqrm
+Tyq.ry
+ary.rqrmaryqc..lryJTmqimJpgm.yTJqH.vhTyJdqH.yJJpe.y
+TyJ.qC.m.yb.TyqLTmJ.qCTyJpRTyJTmqDmryTrqHMyJJpKTmqHrmJpH.yJ.qHTm
+
+TESTING at temperature 1.0
+n
+Howell
+HuntingtJ.KdIrqdTmrcI.f.KqL.ATrqcaJTmhTyqx.mrqI.TmI.T
+Tqg..psT.qC..qEmv.yq...qCTmJrTrq rMmTEqcryKmKhTyqUmfbo.SqUrm ruJTOrpgm.y.qeMT qH.MJudpYTyqimyKhyJTyqRhmVJJhdpsTyJrmARd.qn.dJrybrmJyyqL.mdrmqIhmdTyq.JvTyqY
+
+TESTING at temperature 0.5
+n
+Howell
+Huntingt.yqYmrry
+hmyTyqTmhTyqxMTyJ.JqDh
+
+Orp
+TmJJ.qLmaayqH.yqh.J.dSTyqy
+.ypkTmO.yq.MmyarqCTmJry
+TyqYradiqTmS.yqhryJrmJrpITmJypghJJqHTm.wTfqH.ydJrqI.y.prqc.yJJymqI..yqLrVdJ.qHhTyJJryqYT.Srd.TypqYO.hrqLTmrq.qTT
+TESTING at temperature 0.2
+Daytona Beach
+DelJrpYmlhyylTyqCmyhrqqMlhyyddTyqY.yaTyqCTyTy.Tprq.rmrTqC.aapYTfqYrv.yqL.OrmJTyqc.yrbTmrqH..yJJpRmhyqL.mJ.yqH..JqyTTyqHrJJppTyrqHTyJTpsTm.qCTmrO.yJqRhbormSTmqqrm.yyJTyqHMmJ.pgTryJTphTmJprm.yqqDmJhdd.ayqH
+
+TESTING at temperature 1.0
+Daytona Beach
+DelEOhmdJT
+
+FlryTxymrqJ..dJyycTTy
+rfqY..pLThyUqcryJhmyqLlq.TmfTy.qHb.pphmOqxyqTrrmdpLryJhy
+TmqHrMb
+.qJhyJ.TqqYhM-..di.qI..pu.myyrqLyJTyJJ.qqsTyJTqgq.H.qO..rvJrJhTyq.mrdTy qYrvm
+OsrvqYhamrqpNrbhryqHrmOJhp
+
+TESTING at temperature 0.5
+Daytona Beach
+DelJryiaJh
+yyRTyKkhhqg.KrbTmO.qY.qR.y.dTrTyqH.yr.hyqqq.afMJTyqqrmyTyJ.yqUmryJTqgmTyKqHhyyqH.yJ.pgTJTyqc.yK.yJqH.yJJhpq..bJTyqH..pJ.d.qI..b.TTTqg...yqI.JhTOqxrvpdrmprm.Tq..y
+TySqm.yqYTmrqg.MbrMJTyqxryqkhh
+TESTING at temperature 0.2
+erland Park
+OxnarydTyqUTyJpYhOrmJTqHTyJJppMm.qH hOO.yJqYTyqcTyJpITOrqH.O.ypTmJyqRTmiq.y
+TyJTyqR.yd.mrqCTmJTmp..OhyOq.mrqDmhyqLTOS.rqHrOrOqL.mqHryJphrJJrpqrmJ.yqHTyJqHriryqYhhyJ.TyqH.JhhKKqU..bhTJhppq.yJJTyqHTyJJqc.yv.
+
+TESTING at temperature 1.0
+erland Park
+OxnarqHCm 
+qUm
+myydqGTyJhfyuqO.yKrmTTqJ.dT.hyqU.mqTaS.ryqcryTrSqTOJqmhhayqg.fKTq..ry
+.OryrhryqU.Oryd
+mryfqrMKuqCrJhyqYmgmTmqIhJTmqx.yTyJRTyqbMW.JrySTTeMmJTyqRMTmqTyJphJKJbrTJqxDfqsJhyK.qHrKa pOqzJ.JMTqT.JT
+
+TESTING at temperature 0.5
+erland Park
+OxnarrdTy.qHTmupHrqomhyyJTm.qDJpbTmSryJTyq..rqhTyJpp..yJJTyqH.yJJpHTmS.pqH.y.J.mqelrmJ.qL.yJJ.qH.yhOryqJTqL.bo.mSqyT.hrKJTyqL.rbhmhpUmqxhvJTpIhJa.qyTyJ.mpHhmqc.yJTyqc.hhJdpTmqH.yJTyq..yTdJhyq..yJrpg.TydqY.
+TESTING at temperature 0.2
+on
+Bridgeport
+Brir qHM.yJpyTTrqHMJp..yqYh.dJppTmJqH.yyTp..rqHTmJpH.yyaTyqUmh.yqJTy.b.mrJTyq..yJTypcrmqTmhTyqL.yJTyqxrmJdqCTyJ.ppKfyJrqHryqcTyJpprTa rqWrhhJKqH.mJTqeMma Ty.qH.yT hTyrqErhJu.qHTadq.TvTySTmqI.yJTmqcMmhJMq
+
+TESTING at temperature 1.0
+on
+Bridgeport
+Brirqg.TyS.TrJTTmrqHrOqWrqJ.yq.TK
+qriJypLr..OUiWOhqIJh.yqYmrmrqrTh.qm.b.w.qHTOTqP..JJTydqH..yJ.wK.q.vrrbhaOqHJhIJhpRhN
+hyJTrqimMOJrqWOl.yTqzMqOryirm
+ryqYTmdTqq.mv.ySqHqWyyJAOhqHC.bT.mhTTqRrmPYMyrqgx.yqK.
+
+TESTING at temperature 0.5
+on
+Bridgeport
+Brir qI.yyJppTTrqHTOJ.KJqYrTdJppM.J rbTmqq.Orph.b.qIT
+ryTTqqrm
+TyqcrJJTbJpg.qYTmJ.qq.mJhyKJrmrqsTmypRTarydqHTmTqL..aq.qRhya.yqGTmOhyqgTh
+ydqghfyJh
+yqR.mTyqg.h.yJdTyqRMTyJTyS..yqH.yyJhpmqeTyJqTTyqHTyJTpgT
+TESTING at temperature 0.2
+w Orleans
+New Yorl
+TyhhhqL.fhhqIqxrmJTyqcrmdTOrqH..mJ.pgq.Typprm.yqqH.yJ.qTrq
+mhmb.m.qHrirO.yJTyqL.mKTyJ.yqR.y.JrqHTaJJpY.Oryqcrih.yqHTyb.mhqYrJ.ybhTOqcryJTOqHrJJTyqc.yJTph..yqH .JqR.bJhhqgryrpH.J.TyJhqMqHTmpUmyqHTmr 
+
+TESTING at temperature 1.0
+w Orleans
+New YorJTyVhJ xqyTmrqHrl.Jy.TqTTbpfmMTTqvM.JTdqcMpyTmpWrShryqg.yydhpyOdTmqUmhbg..b.M
+frmiafO
+yh.qC.bqxm JqyTarE
+TyJyirffarq.mbTyqJ.qCTO.Jqyh.OzTqI qE..yJhgq.qriahyqc.y.TypkmJqNKyTyqH.pbhMmqHrydTMhqg..qY.mmUq
+
+TESTING at temperature 0.5
+w Orleans
+New YorL
+rCqhhydrfrdqrmorm
+hyqCmmTyqCrqyrd.TOhqYTmhuqrmqCTmh.yqHTyp.mhyOTqD.blTOhpTqCTyarTpGmddqH.mrbgTyiqWry
+TyJTyqLTmJTyq.mahyJqTmvTTqLMTy qY.yrdgTyqEhmTmrqg.mrqqETy
+ hJqpr.dphmOqsrddhOyqHrmTyO.qH.m.yyqg.q
+TESTING at temperature 0.2
+ld
+Baltimore
+Barnryrqrm.yqUTyJJTyqUmhyyqg.mTJJqHTThSqCTyJ.Tqe.O.qYTyJ.mJpHTmrqH.Or.JTqHThdqGp..yqHrO.yqG.yJJypg..yqW.b.mJqH yy.qWTyJ.TyqTm.yqg.mhhJqHTpgh.yqL.y
+rOrqg.mryTTqqC.boTmS.yqYmypc.m
+dSrpGTmfqW.l.yqL.yqH.yaTyJ
+
+TESTING at temperature 1.0
+ld
+Baltimore
+BarnryarrUTyqyT dqxTmohmvqETy
+TyJTgqDyy.HhOpYTmS.rmaTIq.pE.IKhSrqL .J.yTmpyKr.qWTm.krm
+aShTbqhTOpHrpuq.qEhmOhO.qIqO.bJJpJ.yqR.irrvJrbqymrqzr.HOryqHSTySJhViITqsMhyJSMTqddc.O.bhqxTmOh.SaTpJJpWh.DrSLTpIrqcqK
+
+TESTING at temperature 0.5
+ld
+Baltimore
+BarnryJ ryTyqihyJ.qem.yyqY.yqcryJr h
+rqCrmJTOqH.y.q..bTmTqGJh.yJTyS.qRTmm hyqg..yJTyq.mrarqLryJJTpKTmrqnTyJTyqHmrmdr.
+TOqxrbMThJqHruhOryqyTdqxrqxrihyqHMyarprr.TyqW.Ty.yqTmrqHTyJTyMqYryqEmhyOqx.yKTyqUmh.yq
+TESTING at temperature 0.2
+ign
+Chandler
+CharqCJlryrdhhyqdTyiqrqHTOhpYTyqx.mrpdT.yqH.b.mf.yy.Tq.MbTpTTTyqY..vrpG.O.dqcTmrTyqHriryTyqc.JpTmhyqM.ryJTyqH.mdJyTqWM..bhTmS.rqH.ahOyppTy.qHhmJJpqh.yqCTmfp.T.blTyqb.yqYmhybhmaydJry
+TyqcryTyOry
+qH.mqhTyJT
+
+TESTING at temperature 1.0
+ign
+Chandler
+CharqLnlryCJhyJqqITdh.y
+T qH.Tvd.OhyhrqyTpO.sqLr
+hO.qgrboThSqqTmp.Tyqrmd
+rqTrOrqBThKqp.mqcryJTTTqsMyJpphOyJ.rqDyTJ.iTqR.ywPyqy.ah.yqx.TyJqRO.abKryqH.TmJpdTmkqITm ya
+Trq.MaaTmyfTqrl.yfqCTmrmrgryTrq.Ma.b.qs
+
+TESTING at temperature 0.5
+ign
+Chandler
+Charq
+
+lrrlJhyy
+OOryJh   qUm.yahqH.m.qg.pYhOrydh.yqH.mhJrqgT.hy..TyqHrmJryJTyqTmryJTiTqH..yJJTyqYm.qDmJ.yq..h.br.qg.fqH.bhTyS.yqU.hdJpypRTyJqLrvhTq.MdJ
+yKJTqHMmaO.yqYhhyJdqG.yKrfqC.m
+Tyqc.aryqcM.yJTpoTmTq
+TESTING at temperature 0.2
+oint
+Hollywood
+Ho.myy
+rdTdqqryyTyqC.ydTyqc.yyJTypqCTyyTpg..ybJmTyqC.mayKqL.boMmhTyqq.hhbhmqL.ydTyph.qq.yd.TyqC.TyTd.qR.yTThpCTmqx.y
+.yqcrmJTyqcTyq.TyhTyqHrvJTyqcTmJJyqTmrqryhTyqxrmJhyqcMhyJTqprm  h.y
+TyJTyqcMmhafq..ah
+
+TESTING at temperature 1.0
+oint
+Hollywood
+How.yvbIdhdTqgrlTJTm
+TyaTrqcd
+fYrmKa JpRNOhrJ.dMidqEmTb.hTTqq.m..rhTy qRTOh.KiyrqYMTyJTmfx.psMJO.ptfm.JrqIl.rqLhOhb.KJqrmhOOhpITJhTKqirrq
+T
+TpLTmoqtqy.yTMapWrhJKqh.y
+ahhMh.qeM.J .y.mrrd.rJghOMqHq.MyqMmi
+
+TESTING at temperature 0.5
+oint
+Hollywood
+HopmydyrdddqpryJTyq.MaabK.a qb..JJTyqYrrdTyihyOqHh.KqR.qyTy
+ryppEh.yrqCTaamrqeTyd.TyqC.qHry
+TOrpYTqhTy
+..qYMJ..rb.TO.p
+..y..qIrJTyrqCTyypYrvrOhqKTqCTmTyqUmJqpr.
+ rqDrmJupUm.qH.mJqHTm qH..y
+.yqqThJppUO.y
+TESTING at temperature 0.2
+
+Daytona Beach
+DekJryraJryTy JT  qH hb.qH..JJhbhTyJpUyJ.yq.mhTyq.rm.yqHryyTyq.yOTyqq.yyTb.qBTy
+rmpgqC.yJTyqqMmahyKqW.qHTmhhqghlryJTqq..yJTyqh.Thb.hOqR.yJhJhqEhJyd TyqR.y.TqL...qI.yJ.yqC.hOrmqc.yJ.iqC.yJ.yqx.yJqprm.yqH
+
+TESTING at temperature 1.0
+
+Daytona Beach
+DeeFJyrdMhKTyryTyhUq.qUJJTmdqCydJrbJry
+qrqDayyqTmh.yqg..hyJ.y
+yqEryVgmryS..H.TyqeH.yppmTyKJhyKJrqyTboTyJpHT.yqH.yJJrpbqqehmy.gr..brmpcryJTyqqmhJ
+yTy.qH.y.Tpn.mahyJrTyqW.ahJq
+TyJTmqTyRhahrqtrdJohTSqC.JNy
+
+TESTING at temperature 0.5
+
+Daytona Beach
+DeRJryrmqy
+yry
+JhmyqHha.yqd..ydJTOqY.yTy ha.qH.mJ..qqM.Tyqhm..TqLrmb.qqTmh.OqTmTpJhJTqg.ya.O.qDTm..rq..OryJ.qq.OOphqs.yqUmryJTmTqI.y.Oh.yq.m.yrqITJhpI.qH.yJpprm.qrm
+MJ.qH.ybqhKJqChJpLm.JppTmJ.qL.yr b.rq
+TESTING at temperature 0.2
+
+Waterloo
+West CoryrqC.yrqYTyqHhhmqgm.yqgmhyJTpG..O.qr.fa OrqH.yrpH.yJqUhyyi.qH.mTyJ.peTyyqr..yqxTmJqgTmTyqYmyyJTqD..blTTpC..yTqL.m
+dqddhhbqCTyJrqL.y.qL.yy  ryrqY.yJTyqU.mmqHhmJ.yqc.TypgmfyJqcryyTyqcrydTy.TyqUmayJqxmh
+
+TESTING at temperature 1.0
+
+Waterloo
+West Co.yF
+yTdWUqTmiryqkRahhmqL.aryahOrqOcr.OrqITyJTyq.mr.hOq
+TOJJpKfO.qsqR.. qYraTqsJ.OhqL.ydTm.qYI.pqShyO.yqcmmJTyJgY.yk
+hTvTqDDqDphL.yqsb.bhJh.yqH.yJTm.h.qH.db.p...y mhTmqUyhMbI.qY.Ia.yKfhOrSaMwJqI.JqY.
+N
+
+TESTING at temperature 0.5
+
+Waterloo
+West CoryJKyqd.y.TyyqHh.mJdTqq.mbTTyqc.Or hrOryJTyJTprqrrhaOTqL..fy.yTqUmaryK qH.yTrhpO.yqUmTya..qWhm.qg..TOqx.yJhTy..rqIrO.OrqnTy.qrrmTyJTyqUmhayqLrvTyJqHThhyOryyTmTyq.mry
+ry
+Ory
+ryJryqTmahyqUm.a.qLrKqDyd J
+TESTING at temperature 0.2
+nd
+Portsmouth
+PouTyqHr.qe.yJryqcrmhTyJTqgqH..hpLTyJ.fqH.yJppTyJqHTyJppTyJJpqTmy..qDTmqcryJTyqcryJTyqc.ypTmhTyqHm..JrdqC.mSrypc.yqUmrqC.yJTyqH.qhTyJTqC..JhpYTyJ.yqYrmdpYTJSqYrydTmqHhyJJqtTyq.mbhyJJpp. aqIh.JphTJqH.bJ.h
+
+TESTING at temperature 1.0
+nd
+Portsmouth
+PoumqL.iqteOyJyTqIrJJhOrqHrmrrxxTyqqlr.iiiyTqUdhTypRrhJrqWMa.Oy.dTqR.hK qc.mJ
+Ohqmm.Wg.qHKJTJqU.drhKyqd.MqHhKJqgrvTTSqq.qgMKJqH.yJTyqR.mrhdqYmyJrplTOh.hMqB..yK.vqddhTOrqgTm.brmTVqUla.yqh.arqOMJJfq.dpHTmy
+
+TESTING at temperature 0.5
+nd
+Portsmouth
+PoumqL.yJYhyyqH.yJqH.i.q.J..yJ.pY.J.pI.J..qY.yq....vJrJ.yqg.bbhTyqHrihOhqHTmShydpTmJpI.J.yqcTy.yJhryqHO..yqRrmd.pYTOh.yqH.a.qqH.Or.d.hTyJpHryJ.pqH.yyJTmqHMTyJh.qg..b.mh..qqM.J.yJTyTqc.y.ghhy.qC.hJTpo.myq
+TESTING at temperature 0.2
+a
+Cincinnati
+Clary
+ryDJJKyhyTyqTrh
+rqH.bJTyqHryJpTyJqH.hdJpgqH.yJJTpq.maTyqL.yJ.phrOryJTypcrmJTyqLM.J.qhTyJTqH.TyqHM.J.qgT.JpgThyq..h.yJ.yK.qH.TyqR.yJ.pH.Ty.Tyqc.yJ.yqH.yJJppTmJqH.db..yqHTyJTmqH.yhTyqc.yJJphTyS.qy.Jfq
+
+TESTING at temperature 1.0
+a
+Cincinnati
+ClardJ.yqYKTylIThTd.qgryarmJTMd TyqU.hyyqHq.JpY.hTyqq.TmJ.VJqY.qrTyKkETKqH.daTyqh JTKKpp.yyahYyyqhfJdhdq..-NOO.
+rqgTy..qgrmfrvrMKqg.fqO.vpUmUpHTmqhry TShTyqYTqnsOOeqYhwdTryTIh.aqqma .qqm.bJrKmqUh.q TmriJh
+
+TESTING at temperature 0.5
+a
+Cincinnati
+Claryd.qDmLyyyydhrypUmhyyqC.yTyTqYMblTyyqCTmryJTpI.J rJTqH.mJ.pJhqY.HrmJTyqqH..dJ.yTqe.m.Tyq.pL..Jqx.yJqTmyydqH.OryJTyqxmTybTm.qrO.yvJTySTThOrqCMTbJpbJJdqDryarOJqth.bh.y.qghmyJiTqC.pgThyqLTyJTmqDTyq.MhTyq
+TESTING at temperature 0.2
+ise City
+Bonita S.hhy.qI.ddryKTyqL.OTyTqYM.aOhhTyqH.mmJpS.OOrqLTmy.pYfJJqHTyJTmqc.yJTyqH.yJJpHTmyqH.hJb.m.qHhbJTph.TJ.ddTpS.mJhhqLryJ.O.TpqHTaJqHTmhTyqRrmd.yqH.yJJpYTyqxhmyJryqH.vJd.pp..yqH.hyJJqH.yydpryKJ.qp..J..qL.b
+
+TESTING at temperature 1.0
+ise City
+Bonita Sq hyqH.a qY.aryqR yNa.pima.yqdhaaMqHR.mbJ.dqh.OryG.yvOTyKdqa.yJ.pYTS.rqm.Orqs.yJTmrqtrMy piryqH..JqITTmJTyqHMyJJJOrnfmqHhTvh.yqHYh.hJTpg..ryfTfi.O.qDmhyyrqg.TmO.O.qyTyThhradqgr.OredgJ.
+yq.TOryqG. Jgdq
+
+TESTING at temperature 0.5
+ise City
+Bonita S.hah.qI.yqUyKyr
+
+rqy.m..yqCTmqUmyy
+ hry
+TOrqDTqC.y
+.q.mqY.irqS.qG.bormS.rqsT.JTbhTdqrmryrTqe.hJ JqgmryrqGTmJfrqHr.dpghfyJTqeJmTqsimyqH.arvdThqU.yqTTyp.mJTyqc.adJTpsT.b mJpUqH.mvJTyJhyyqY.yryJphrJJJqYT
+TESTING at temperature 0.2
+
+Kaneohe
+Kansas ClVryyTy
+m
+ryKryqC.mhyahyyqLMmMqg.
+ryTyrqCrqgr.yyddhOyqgq..yqH.yyTyqR.yJ.pgTy
+.qCTmr.dqR.OhyJqY.yJ.yqC.yrm.yqH..yJd.yqqmhJJpg..yqH.mhTyJ.rqH.yhTyqHTyTJpIryyJh.yqC.mJJhyqH.yJJb.qsTmJ.pI..J.qt.yJ.hrdqHMJ
+
+TESTING at temperature 1.0
+
+Kaneohe
+Kansas CNCbJyp.WdJqmahfqg.bJ.bhdOTyWmhMyJhhyK
+Ty.TTqC.qJ..qITqCmu.yTy
+riryrmrOC.mq.upqmO.ybTmIrpYTyJpgmOrbgy  wrbJfTpDm.IrppUfJTmq.mhbmT.qHdy. qhTVmry
+ph.yqP.yrqgThpbTmqUblrmqLrboTyqgyJJTyqHhm
+dddTrqH..rmyTJ.
+
+TESTING at temperature 0.5
+
+Kaneohe
+Kansas C
+
+yJrpJkCJryaTyqH..Jryd.mqR.drTyTqni.yK
+rqLMaJJppTmTyqR.dqcrKJ hd
+rpsryJTmqhma.yqCTmb.mpqmhyyqH.mb.ypRhmbhmOTyJJTyqHMyJyp
+.OrqH .TyqTmyqGTdJrqDTyJJTypTmJ.TqqMmJJpKhJJqg..O.qHDm.JqI.bl.hJJ.y.q.TdJTmS d
+TESTING at temperature 0.2
+ Valley City
+West
+rrydq.hyJTyqJh qgmhTyqc.yJJTq..m.yTyJrqe..J.ypYmayyJqryJ.yqH.yb.mypHr.JJrTqI.bhmJyqH..yihTOqI.yTTqg.y
+TyqC.mhTyqcrydTyqcrydTyqcryJTypcrmJTypcTyJ.pKTyqHrvJJyqxryJTyJTyqHr.JJhps..qq.mmfTqqH..Jpd.Ohyqqx
+
+TESTING at temperature 1.0
+ Valley City
+WestHrrlGmTyd.yllTmyqHgJMyTJh.hrKhTyqL.M.JJTqhqmhOOhm
+d.qs..uTTmKqIJqy.arO.qrmaaO.qhMorqR..rqCryJTqgTmihirqLLR.bod..qC.y.TSTyITmkr.qC.Orxrfrb
+T hqqC.u.mqhhJJhphKqH.mpqmaJSrddTyTqH.mrqg..yyq MmJhyKrpt.mabb
+
+TESTING at temperature 0.5
+ Valley City
+West
+rrdhy.hry
+TyJ TqIMhTOrqC.TyJpYhOKTS..rqCTyJTmq.JrhryqTmOrTyqcririTq..duTmqcry.TyqxrydTmKTyqgm.yJqR
+haJqGTmy.yqH..ydJTyqqTmyTbrqH.yrqHTOOry
+TyTqH.y.qyTvaOhqCTyJ.pg.dTyS.TyqCrmrypg.TyydhTyqLrMyJ.yqWMmy
+TESTING at temperature 0.2
+s
+Detroit
+Downey
+qCmvTm.my
+Dyd.yqL.y
+ry
+TyqCTmayyqC.mhydqTyy
+TyqC.y
+ryTyqq.mlrTyqg..mhTyq.rdJhyKqL.m
+O.pgq.myJTyqLmryTyqL.yJTpKTOrqrmTyqRryJhhdqHrmrTyJqR..mayTqH.mTyJTyqLrmrppTmOqYrybTmpHhyqLTmJ.pJhJyJTqG.mTh.qL...qH.
+
+TESTING at temperature 1.0
+s
+Detroit
+Downey
+rd.OTqsmb.nKvhyqx.mm.TyJJSSTmhTrqLm.aTqH miMdpcpJTy hrOJpYh.pJqe.hqrq.Jrmb.qdq.my.SyhryqhiyThqYTOTbrTDTrq.MadT.zrJTq.mryqWqihOOqG T.OrqeTOrOr qLTm
+Ory
+ryqyTghaMH.mKqyTqeJhyJ hyyyTfhTyarffTHM.Ofu TyqP.
+
+TESTING at temperature 0.5
+s
+Detroit
+Downey
+qCHJT.imTyKqRh
+dJTyqrmryJTptTTyqHyaTyqx.yJppmhTyqR.fmo.mJqHTyTyJ.yqYm..yd.TOqYryd.mqLryJJppT.q.m.aTOqxm.b.qbTmpC.yJryTyJTyqR.yKTyqDmhaJJqPTydJphpCmayJiqt.mJTyJTyqrmJ.ryrTqH.m.boTTyqHM.mpgmJypg.qaTyJ.q
+TESTING at temperature 0.2
+Norwalk
+Norwich
+OrqChyhhyqHTmJ.yrqC.O.yq.m.yrqH.Oryqc.yhTyqYrmrTqqUTyJTyqcryJTyqc.mhJJhpg..yqHTyJJrfqH.yJppTmOqsrqep.yJJpHTmJ.yirqg.b.ThJqH.mryrqH.yJJTp.m.TyqUm.yrqHM.pphTyJTyqYMm.b.qCTy.TyqY.yJpphTyqH.yJJfyqY.JddTpI.
+
+TESTING at temperature 1.0
+Norwalk
+Norwich
+OoqRdLhJKqHqhhyJryDqChmOqH.y.yTqH..yOpEm.yyqsmm.mmrThqI.Jb.m.qCOrmrqgTbJmJmyyq.h.qLh.H.yJTm.qYry.TqJ.yJqY .OS..mq.v.JqHJ K..vh.KJ
+rJTTTqYrKryo
+m.qYq.m.qryqH dJ.mmrTq.qhqJhyqqrJTyqUmlp.mKTOqqTOqJMfydhhO
+
+TESTING at temperature 0.5
+Norwalk
+Norwich
+OrqChrhqkriJTyJqYrmdTOrqH..mJJTyqLMapirKKqL.b.hJqyrKqMJTTqx.yd .qqMm.brmJTyqcM.yahmqHryJTypc.Jhymh.yqH.mJJyb.m.yyJ.TyqHrmJhyT
+T.
+r.TyqHTJ qy
+.y.qeMyJTyqc.yaryJp.qhTyJTySTTMqH.dh.OqxTvJTmpc.yJTyqc.mu
+yK
+TESTING at temperature 0.2
+partanburg
+SpokanhyTry
+qhmayqG.rryyJhTyqcTyJTmqYMhTJJ.pTh.yqH.mrpor.JqqCTboTmSqHrirqLrm
+Ohdqe.yJTyTTqqMryJ..qH.mJ pp.mOhmqd.y.Tqe.y
+dEhy.qC.maryqC.l.yqTmyqGrpo fyqx.yJhTyqqr.drqG.OrqsTyKhyqYrqYTyJ.mqxTTJTpg..O.qH.m..d
+
+TESTING at temperature 1.0
+partanburg
+SpokanJpYqd.abpRhqLJrJJpbTWS.CMyJJrqh .JTUqq.qh.yqYThhTqmTmb..OhThKqD.qDTyrp. O
+rprmh.OqprmLrmJrkqRhmyTy
+qxTdyimAryCTmKyp.TSTfrqYTOTygaTyqYdyp.O..yqJTyrpDT..hLTqDJrTirq ThyqRTOriqRmmJkm
+Tvg.
+m.qz.a .qx.JdqL
+
+TESTING at temperature 0.5
+partanburg
+SpokanhhTyqRahyKqmhyry
+TypPhyyqGm.yar.qYrm
+TyqcTyJTyqxrmdqYrJ
+TmJTyqPrJhTyqHMhJJhyKqH.m
+TyrqH..Y.yp..Ty
+rfqc.yJTyqL.mKJyqTmr.yqHTmJqYTOryTyqeTyJpYTyrqDTharyqYTyJhOKqYTaaOrqCr.JrqH.q..KryTTqqYrJppTmSrmTqpM.M
+TESTING at temperature 0.2
+la
+Tempe
+Thorntonryqc.vdJpY.yqY.ihTyqHryJpphyy.qg..muTyqH.ydTmrqgr.yJKpg..
+ypshhyqH.yJ.pL.bTyJJTyq...yqg..Oqx.bhTfqH.bo.mShryqRTyJppTmSrm
+qgm.aOqH.yJJphmS.yqx.p...qH JdypGTfS.qb.m.JpqYTyJTmqI.ydTmhqRr.dJhTyqH.ahyKqR.y
+
+TESTING at temperature 1.0
+la
+Tempe
+ThorntonrY
+ryqMmJmyrqYTO.qLr.y.hTyqxrmROOr
+qU.qNhaJTyqUrqaOJJhq qhrbJhhqRhyJ . JqqyhJaym .O.i.qg.qmTyqhps..yqy..yqGyJTqH.myqC.aWboJriqDydgx.yqH.T.qHMT.Jry
+Tyq.HhOy.qG..arqHTTJJp.mTqJ.mtJm.qrm.bOTmJqHM.qH.Jhpd
+
+TESTING at temperature 0.5
+la
+Tempe
+ThorntonryqxhmyJpgmryJryqRrm
+TyqH.y.pHryy.qWTyJTyqH.yqehOyJqxm.yJJ.pgT.hOrqxrvJ.pq..yJpihryqHhyJ.qC.yJ yq.mryJTyqCTmJTyqcr.pDmhTyqHM.JJqHqYryJTyp.m.qH h.y.q..bJTbqprmJ.yq.OTyJhhbqHMJbrm
+TOrqHTTydTyqETq.rmrTyq
+TESTING at temperature 0.2
+e
+Hayward
+Hemet
+Hrm
+yqLTmydyhyJTyqYTyhhmhTyqC.yJTyqcTyTyTqp.yb.pKTyqY..mJhbqhTOhTypc..qYTm
+hOrd
+Tyqprm..yqYTyJqgqMTOqqryyJTqsM.bhhmJqC.hTyJTqh.dJTOqH.yvTm.qg..yrqc.yJTyqc.ydTmhpYr.qH.pg..yqYrmJbTm.qH.ypG.fqeTmJpYTyqH.
+
+TESTING at temperature 1.0
+e
+Hayward
+Hemet
+HOdyr.TOqK.yqhhJyqrq.TKpghhuoryJ qCTmSqRr.TyqH.yJGTqP.bhpqMmO.yrJ
+TqqphyJhOryqY.phrTySS.rqe.hql.ydTmMqYTm..q
+.mhkmJpHg.yOhqJmd
+.OhaJdqG.MO..b
+.SqRyKJryJT.dqTmdqDTbJRrmy.Tm.qETbTqeyyTmy
+ryqmOr
+rqTmaqk.
+
+
+TESTING at temperature 0.5
+e
+Hayward
+Hemet
+Hrm
+yqLTmydJhyJpYTO.yrTyaTqD.bJhb.qRTmhyqI.JJpt.y
+.O.prTf.H.qH.yJTyq.Orqc.JJ.yTq..mTyJriry.qHTyJ.qYrfb.mJqYTOrmqYriJTydqEO..yqh.i.TmqTma.ySTTyqcr.auOhTqsTyJTypdmr.ryq
+ThJJphTTqYrMNyJ.d
+..qY.O.yqYhyqH..
+TESTING at temperature 0.2
+ladelphia
+Phoenixry
+rd
+rKr
+qhrKJ.yq
+Th.yTqz.irqI.yaOrpTTS.TyqIr.p qs.mdJTmTpgr.yKqH.yqcrmJTyqqM.b..ppTmqqHhmb.pg..yqqMhJJpp.hOqH.mb.ps.mb.qlTyJJpYTSqpIJJyqRdJ.yqG.mb.MJqH.yJqHTyJ.ppTm.qH..rO.TyqH.yJppH.yrqCTyJryJ.yqR.
+
+TESTING at temperature 1.0
+ladelphia
+Phoenixry
+hS.yKrqcTy.hryqk..b.ThTqBr.abhqJJJhOIamrqgqhb.ydJmqBqITpryJ
+MqHrKdTm qCo.mJqC.yTTpThrOhyqrmryiYa.qLMTN hqKJ pq.KJphOwYJpp.m.mJJqYTyqUmJppbTm qc .yJmpIMh
+qOrf.hOJypqIay.qLhyJ m
+ryqE JryJTmM
+rqhrOrTy
+
+TESTING at temperature 0.5
+ladelphia
+Phoenixry
+rd
+rKTdqTmh.yqH.yJTyqxrmqxhbhTyq..OhryqGm.yyqMTOrddTqhTmd .qCTm.qH.y
+.yp..qCTmJTyS..lhhbqH.OryJJTyqL dOh
+rqC..J.hpYmrqLryd .qH.yd.yTqYMh yqH.yyJ.hpph.yhyqg..yJ.qS.lrydTyrqH..rddTyJTqYMfJ.pTmhTyqx.v
+TESTING at temperature 0.2
+o
+Fullerton
+GaineqYrmryJ.rqCmyr.qH.yJJhpYqC.yJTm.qH.y. .b.qR.yJpH.yJJpphTyqR..yJp..yqH.yTmh.yqH.ybpphOOqY.yboTmSpRTy
+hryJTpG.ryrqCTmd hyJ.qH.mhO.qrTTmqh.J.ppTmOOrqsrmJTyqH.yJpiriryqxrmhy.qYrihTyqxrvryJ.pg.rydJTyqHrm.y
+
+TESTING at temperature 1.0
+o
+Fullerton
+GaineqYTqCmJ.qY.JTrJh.yqy.ihryJrqzDhJrqCTm.qrJ.yJqKayrdJryqTmTqJ.dTmJqsm.TyJ.ffqHTJqYixqDOJOTqLTmrqg..yaJryq.mrhrKdq.hy
+qLhrPqxrJrq...ylpYh.qL s xhTyqxMhb.O.rm
+hy
+.pTqg.yTTqc.m.TyqdM..yqxrOrqYTiLhydqYmMrbq
+
+TESTING at temperature 0.5
+o
+Fullerton
+Gaineqy
+rydTqTqb.TyqeTydhhhyqRhayKJ.qqYTyJ.yTqTTJJqtTmr.J
+rq
+S.mb.mqH.yq.mdTyqLTyJpH.yyqHTmTrJTmqHhyKbTmrqDy.qH.yJTypUm.qg.hy...yqHrydTmShTyTqg.bTyJ TyqY.qJTmJhyqJ..qTmrqtrhJ qHrirTJqHhTKqU.qU.qHTyJKpG.haq
+TESTING at temperature 0.2
+ceanside
+Odessa
+OJhryJTyJ.ymhTyJqH.qH..JJ.ppTmJ.qH.y..qH.yyJTyqH.yJppH.y.qY..JTyJ.TyqR.yfTyqHrvJJhKpg..yqTmfiTyqH.yrqLTyJ pGmhTyqH.mhTyJTyqcTyTTyTqT..
+y.p
+Tm
+rpJTyq..y.arqLOOJqHhTyqYhyqUmrqrihTyqcryJTyqcrmrTyqcrypTmhT
+
+TESTING at temperature 1.0
+ceanside
+Odessa
+Oy rbJmyJdOKDTyqhmvqIrhTyqRrqgr dmmOJqY.qxrv.H.qtTmrirrq.OJpYJ..rh.TyOHo.maybyrrqxTyTqH.iriLyRq.h
+roqg.sTyqEy..qChbh.b.qCJhyKOrq.TyTqb.m.qxavrhdqCTyJTbTmv.rAqWTOariplrypYmJhyqHrKJ.K
+qeMbJTbTqIqz.VhdyJh
+
+TESTING at temperature 0.5
+ceanside
+Odessa
+OJhryJTyJ.ymharipH.hmJhJqq.TyrfTOrq
+Tmqc.OdTmqsMOJTyqLrqermJTyqHr..JhrqJ.JqH.mfTTqqH.ir.dJTyqYfmrmriTy.qDK.mriTO.qYTbJTpsrmqxTOJ.TqlTbJhrqCO.y..vry d yqqWyahyqLrmhyqCTyaryqyThhOqyTy TyqHqyTymTyqhMJTyJr
+TESTING at temperature 0.2
+y
+Medford
+MelbouryJqhmOrydhhyhdyqeTvS.rqeTy.TyqTmhhyqLmOOryJTyqcry.TyqH..mpphTOrqhryJTppqrmyqU.rTqg..bh.qqmhydJqs.bophy.qg..yJqHTmdpY.yf..yqH.TyJpYTy.q.mybo.mJqHMb.mhqqH.ydJpH.yy.d
+r.qg..yJhTyqCrmaryJ.yqH.mTyqLrJJqe.d
+
+TESTING at temperature 1.0
+y
+Medford
+MelbouryJ
+rmqrmmTqyhdJhybymJ.qsTaMOh.dqC.dpfOJ.qIhOrOUy.qYTqzrvdhTyqxhaOhry.S.rym.TSpUy
+ya qYm.HJTpp..SdTyJriTqy.hTMhqd.ayUirOrq-q.ryJg.rraTOJqqL.y.dpH.O.pHTy 
+qDyhy
+dJTyqCTmTypgqb.yqUmfyfH.yy.yTqR.yrTqTy
+.q
+
+TESTING at temperature 0.5
+y
+Medford
+MelbourldphTyq.mlryrqITahdqCTmdTqqUmO.yqrmaurq
+rm.yyqRTmrqryrTyqY.b.mTq mhyqUmfyTyTqqM.aryTqg.aabJpgqhm.qHr.blrrihyyJTyqc.pJTyqxMmyTpLTmr.TyhTmqx.yaoy..qPTmTypcTmJTyqDm..ydTTyqxrv.yqUrmy
+yqTymhrqq.yqYTyyTyqY
+TESTING at temperature 0.2
+dence
+Provo
+PueblTyyJhyqYrvdTyqhMdJTyqCrvryrTprqRTK.yqWmryhTqL.hO.rqcTyTyqh.OqUmy.TyqYTyJTmSTmTqC.mJu.mJ.OrqLrm.yTqH.mrqHri.yqLTmJTyqYMJJpshhyqH..mJfyqH..ydTTyqHr.yqx.yyqxTmJJrqsMOryJ.yrqDmryririrqe.yyqYTfJqYT.J.qCTb.
+
+TESTING at temperature 1.0
+dence
+Provo
+PueblrJTyJTmrqHryJhhyqHrmr JpI.J.yqTChqTyTWphmKOhrhTyTqOMaLrqGTrdTq Trq.mfhTyqxrhJ pghdyqDyJhrR.qU dlThqCTmry
+.yqTmqrm
+.OL.qg.hOuryqLTy.TyqhMaoKqqe.qDmJTmhqJ.p..SqsrJqUKhobhyKqH.KrirTqU.m
+Tyq.mJMTyqqs..O.q
+
+TESTING at temperature 0.5
+dence
+Provo
+PueblTyTyJTqIO.yJTyh.hdyJ.qI.b.yJJpp.ryJ.qII.hyqH.ydJpe.dJTvqhTyyThpqmTyTyqDTmyJTppTmhyqCryKrih
+yqGTmTyqCmhyrJ.TyqxTmJhTyqWTmqxrpGTSJTmqc.OduhyKqR.urdJTyJqI.bTm.qH..mJhfKqITyJpp...qHT.yJfOrqH.yyp.mO.qH.mJ.
+TESTING at temperature 0.2
+Las Vegas
+North Pry
+
+JhyiqYryJTyqH.y.TyTrq..hJ.Tqg.maTqb.mJqtrirO.yrdrTyJqxTyTq.y.T Tqef.a qc.y
+Tyqchmry qE.yJTyqcrmJTyqc.yKTyJTyqHr.JJpphTaJqH.TyTqW .ydqTmqR.yJJ p
+.yyfpfm..yqH.yyqL.yyJhTyqG.y.b.TyqHTyJTph..qg.dhTyJT
+
+TESTING at temperature 1.0
+Las Vegas
+North PKJ  JphTJSrmMayO.fqUqlrTyJpsrJ
+y yTq.mTTbhmyJqH
+fJJ.pqMmJJpLmJ.ymqyWI.qDm.JpJr.yqTTarqrOry..HrMhJTrqRMmmhryJyTqG.OMC.yqPKhbJqJTqL.mbhHhJ.yhdihTOJqpUp
+y.qCaTyqOr.JaT.qL.yarrpr..qH.dhTOqMmq
+rvrqYJJrqIM.
+
+TESTING at temperature 0.5
+Las Vegas
+North PJry
+TyqYhh.ydhTyqH..fJpTm
+TyqDMmfTyqxTvJdpWTOh.qqMmJ.yqx.MJdpG..yqsqzTyJ.pM.Jry
+Tyqxrmb.mSqHriyyqhriJTpLTmJhrqeTyJryqRryJJhJaqCh.brmqR..mJTyqh.OTTSqRryTyJ.TyqcTmJTyqLMaJJhpp.. b.mTyqH.yJJ.pTpomhOypq.y
+TESTING at temperature 0.2
+alley City
+WestmiryhTyqR.ydTyJh.qgmTyJhqRTyJJpt..yqcryJ.OhTyqx.myafqem.J qgTm.yqPMJ.qHM.b..b.phTJ.qI..yTTdJhyqcTmJ.qYTyaTmqc.yJTyqc.mdJmrpgr.yJhpYr qHr.pr.pY.pJ.bhpg.TyqHrybTmJhyqg.myJTyqU.Orfd.ryqYTyJTyqcrihTyqUr.dJp
+
+TESTING at temperature 1.0
+alley City
+WestmiryaWydpHTy
+rhhyOSprlRqRqRhydJ.ypKTMBpIhahOOrS.TyqxrOOpBdyTHqIhJJrsATOqHTmJTpITmJTTqq.m.kuTmE fqHMu.OT
+.mpqY....dqUhphmdymrJCydqc.qH.yJTyqfmI.hJJ.yqq.J.poTmfqRO.yyTrqDrd
+rSqfqR.b.YfqHhyarmrqqOrbhpM.yy.
+
+TESTING at temperature 0.5
+alley City
+Westmiryhhy
+rOTyy
+hIhqeJTyS.mrqmTy
+.ypch.yOhqLTqJ.ldhTyq.qTTyqH..JJhTyqg.aTyJ.yqq..JTmS.qHrJrqBr..O.JpYhJipqimMqq..bJTyqcM.bh.mqL.Oo.mqL.yJ.ydTmrqHriryJ.qqH.mpEmTqH..JTmSTyqLrmaJOTqg.haOhpsrJqUrJ.ahqCTyJ.yi
+TESTING at temperature 0.2
+
+Toledo
+Topeka
+ToqxdhqKqYhyqYrmpkrd
+O.qLTmTyTqH.yJq.yrd
+rp
+TyJ.pY..OrqoTmqqH.yJ.bTmTqTmry.qH.yJ.pgr.yqHTJO.yqHMyppmhyqHTmJhbh.yqHTyTyJ.qDqdTyTqC.mdb.y.qRryTTy
+qH.ya.yqR..ddTJqL.yJTySrqIrqCTmJpHTmbJpsTmJqC.mJhqIhJJqHTm
+
+TESTING at temperature 1.0
+
+Toledo
+Topeka
+TooqbdphdJodpYJJyq..l yrqa.TMb.mqO.-qWyhqdJJhTdyTOqcrMqCThJJdqCJapHqqhy.JTyix.yiqp.ya.yJyrxrgrqryOLTridUi.yyqEmhKyqx.sTqghhaTqrTOr..qIJJhy.yKaMqk.Mrqo.qS.JhqEMbdwrqrTyJiyTqW..dahirqef.b .ph.aaTyqqmJpehv
+
+TESTING at temperature 0.5
+
+Toledo
+Topeka
+TodqdmryKqc.mryJpp.yqUmhyyKqY..q.TbhTOqC.boryJqRTmhTyqH.yddhhO.qgTmTyS.p.Trq....b pTThkqHhmbJppJhyqqx.yJppTmhJdqYTO.yqY.ydJTO.qgr.yTqL..yJryr.qRMmhfOry.qYryJqRTyqTmhhyqR..hrbommhqD.TyJhyOJddqrK
+TyqxryJT
+TESTING at temperature 0.2
+er
+Lansing
+LaredoDmrmryqxmlrmrq  rfqeMhyqHhaJqqm.yp..yhTmJTyqH.yJ.Tyqx.yJJmpI..qH.yJTps..bhTyJ.yqH.yJJpIhJayqH.yK.p...JqHTm
+TyqY.vfbo.mq.qDmrmryJprydrmrqri.yqqH.yJJpWJhTyqhMb..yqHM.pOm.pITyShmbh.yqgM.
+OqH.TyypR.yyqdTy
+
+TESTING at temperature 1.0
+er
+Lansing
+LaredoWOrJryqH.yhryqH ihmOqY.yJTyqWTmS r
+pgi.yyqc.q.TpSK.RqCTmhOO.qWTTqGTm.TyShTyqcrhhMTqP.bTmJTpTMMTyhw.qHlOryJrqdTahm.JLTyyqHriryJchrpnmO.yqH.yJhyK.fqmTmSyf.qH.ayqLhOySrm.my
+kJryqr.aOhJqY.q
+TivqErOormJqHr
+
+TESTING at temperature 0.5
+er
+Lansing
+LaredoDybYryqRTyhpJTfppmTyqU.OhJJqHryydJhyyqYryJTyqqMmTyJTqg.db.mhqgTmJJppTmpTmSr.yqRTyJqRTvvdTyqU..qRTyJhySqyTmhTyqR..mJ.ypTmaxrqGrm.yqH.yaTyqH.yJJppY.yJTmrpI..yqHTyb.mpqmJ.yJpTmqqhydJTyqHryJJppUhayJqHTyJT
+TESTING at temperature 0.2
+le
+New Bedford
+NeryqTyhTyJqYrqCrm
+hyqc.yJTyqYrqL.OryJTyqHrmrTyqR.vmhyKTyqHrmhJOrqCTyyJTpg.Ty qH.yaTyJTmq.qhTb.q.TmJJpYTmShTyJdqq.mJJpbTmJhyJqHTyJqHhmqR.mJTyq.TmJTpp..yqTmhyyqcryJJppTmh.yqC.m.yJ.qH.qDTb.TmqYryJd.qH.mah
+
+TESTING at temperature 1.0
+le
+New Bedford
+Nery.TyhTy qHi.OyiNyOqCJhmJyq.q arpgT...qLyJTqg.
+fhqHh.myJhpqyS.yl.
+mOhhrqg..yvdTyhqYYhywdh.YhqY.JTyq.NyJhyd
+b..deryqUmra
+OqP.Jvrqm TyyJJfpG..yrqoTyJJyqxhmypqU.yJrY.yYrO
+yTqLmqPJ.y.
+rMqm.
+TyJ.yqH.yKhqyr
+
+TESTING at temperature 0.5
+le
+New Bedford
+NeryyTqL.Oh.mrqC.ma.ypcrqL.yJTqHMO.phTyJTmq..Jh.yqRTryJ.qDOry.q..yq.mhyyJhmqU.brmhhyhrq..d.TyqTmh.yOrqI.OryJTyqx.yyqrm.iridTqh.yJg.yqU.O.TyJ.qb..b.hTqq...b.mTyTqo.v.qgmJTyqxTmJ.prrvk.yqcTmJpDq.yi.qy.
+rO
+TESTING at temperature 0.2
+rk
+Oxnard
+Palm Bary
+ryJTyqCJry
+rOryqx.ymhTyqH.yJTmhTyqY.TyJTyqc.mdTyJTqDTqH.TyJTypTmrqDTm..yqxTvJhb.qTTmSTmShryqx.ydJTyqY.mryJTyqx.MKhTyqHr.pJhJyqH.mryJTyqH.mJTyqH...pJhJy.qH..mfTyqL.m.Ory.TyqYTTmTyqYrydTTppMm..ypTmO.
+
+TESTING at temperature 1.0
+rk
+Oxnard
+Palm BarOTyqlTmadyhhKhmrqmTmydJrdyyO.ryqxrmu JqHqs.OryyTqzMJJh.yqHraaJJpgqR.dphTfqHJrbhmqz.ybT.OTyJJTTy.OrqTTqLTmJclhTqH.hrk.ThJqe rrSCThSq qg.ywphmhqkrb.mb.pbJqMqyTTqITJJp.y.MSqg.JL
+IqfmbhryqRT.mqjmTJJpbqTm
+
+TESTING at temperature 0.5
+rk
+Oxnard
+Palm BahydqLSaqOhyrhr
+rrqL.yJTyqR.hTyJTqsTmb mJqRTOTq...TrqR.KJ..qD.O.rqsmrydrqLOri.yririryqY..p.m..yq.mhhKqS.yfqY.yyqhmyy.q.TyTf.q.My.yTqg.hy JpgqCTmyqYTypJTpt.mOhrp
+rO.mqqHhyqx.yarqLJ.yJpTTyqdrblrhqH.yJTyJ
